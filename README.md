@@ -11,6 +11,7 @@ Smooth hover & glow effects
 Clean and responsive layout
 
 🚀 Live Demo
-Impossible Light Bulb – HTML, CSS
+Impossible Light Bulb – HTML, CSS, Java Script
 GitHub: https://github.com/alsha-j123/light-bulb
+
 
